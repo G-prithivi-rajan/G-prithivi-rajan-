@@ -1,9 +1,19 @@
-• HI I'm G.prithivi rajan(G-prithivi-rajan)
 
-• current in BCA 2 year 
+# 👋 Hi, I'm G.Prithivi Rajan 
 
-• I enjoy solving problems using python programming language 
+##  About Me  
+- 🎓 Currently pursuing *BCA (2nd Year)*  
+- 💻 Passionate about *problem-solving and software development*  
+- 📚 Exploring new *Python libraries and technologies*
+- Always working to be the best version of myself by learning from past experiences with a positive mindset.
 
-I now c and python 
+## 🛠 Skills  
+- *Programming Languages:* Python, C  
+- *Python Libraries:* NumPy, Tkinter  
+- *Database Management:* SQL  
+- *Tools & Platforms:* Jupyter Notebook  
 
-i am learning some more libraries in python 
+## 📫 Connect with Me  
+- GitHub: [your GitHub profile link]  
+- LinkedIn: [your LinkedIn profile link ]  
+
