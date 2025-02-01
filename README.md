@@ -14,6 +14,7 @@
 - *Tools & Platforms:* Jupyter Notebook  
 
 ## 📫 Connect with Me  
+- I'm open to working together and having discussions. Feel free to reach out!
 - GitHub: [your GitHub profile link]  
 - LinkedIn: [your LinkedIn profile link ]  
 
