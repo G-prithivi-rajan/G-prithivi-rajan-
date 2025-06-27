@@ -8,8 +8,8 @@
 - Always working to be the best version of myself by learning from past experiences with a positive mindset.
 
 ## 🛠 Skills  
-- *Programming Languages:* Python, C  
-- *Python Libraries:* NumPy, Tkinter  
+- *Programming Languages:* Python, C , html , css , MYsql
+- *Python Libraries:* NumPy,pandas,plotly, Tkinter  
 - *Database Management:* SQL  
 - *Tools & Platforms:* Jupyter Notebook  
 
